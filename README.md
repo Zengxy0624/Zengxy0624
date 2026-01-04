@@ -10,7 +10,6 @@
 - 🔬 Research focus: **Vision-Language-Action Models** for **Robot Manipulation**
 - 🧠 Working with **Imitation Learning**, **Diffusion Policy**, and **Transformer-based Policy**
 - 🦾 Experience with **Kinova Gen3** and **UR5** robot platforms
-- 📝 **4 publications** (1 accepted, 1 published, 2 under review)
 - 📫 Reach me: [xzeng28@illinois.edu](mailto:xzeng28@illinois.edu)
 - 🌐 Website: [zengxy0624.github.io](https://zengxy0624.github.io/)
 
@@ -42,19 +41,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📚 Featured Publications
-
-1. **HTSA-LSTM**: Leveraging Driving Habits for Enhanced Long-Term Urban Traffic Trajectory Prediction
-   *Co-first author* | Accepted by *Applied Sciences*
-
-2. Construction of Bearing Degradation Health Indicators Based on Unsupervised Deep Belief Network
-   *First author* | Submitted to *Quality and Reliability Engineering International*
-
-3. Research on Batch Scheduling of Unrelated Parallel Machines for Standard Gas Manufacturing
-   *First author* | Submitted to *Computers & Industrial Engineering*
 
 ---
 
