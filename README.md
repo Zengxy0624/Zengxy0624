@@ -46,18 +46,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zengxy0624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zengxy0624&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zengxy0624&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zengxy0624&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zengxy0624&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zengxy0624&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=zengxy0624&theme=tokyonight&hide_border=true)
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zengxy0624&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
@@ -65,7 +64,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xzeng28@illinois.edu)
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://zengxy0624.github.io/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/zengxy0624)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/zxy0624)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 
 ---
