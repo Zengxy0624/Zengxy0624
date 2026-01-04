@@ -48,12 +48,6 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zengxy0624&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zengxy0624&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=zengxy0624&theme=tokyonight&hide_border=true)
-
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zengxy0624&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
