@@ -65,7 +65,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xzeng28@illinois.edu)
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=Google-Chrome&logoColor=white)](https://zengxy0624.github.io/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/zxy0624)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=X&logoColor=white)](https://x.com/zengxy0624)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
 
 ---
