@@ -44,11 +44,20 @@
 
 ---
 
-## 🏆 Honors & Awards
+## 📊 GitHub Stats
 
-- 🥇 **First Prize** of Yanchang Petroleum Scholarship (Top **0.5%**) - 2023
-- 🥇 University-level **First Class Scholarship** (Top **3%**) - 2022-2024
-- 🎖️ Outstanding Student Class Leader - 2023
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zengxy0624&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zengxy0624&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zengxy0624&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zengxy0624&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
 ---
 
