@@ -25,30 +25,12 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-
-### Robotics & Simulation
-![ROS](https://img.shields.io/badge/-ROS/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/-Gazebo-orange?style=flat)
-![Isaac Sim](https://img.shields.io/badge/-Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
-
-### Tools
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zengxy0624&theme=tokyonight&no-frame=true&row=1&column=6)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=zengxy0624)](https://git.io/streak-stats)
+
 
 </div>
 
